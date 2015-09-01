@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Node.js",
+    "packageVersion": "0.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "",
+    "githubRepository": ""
+  }
+}
